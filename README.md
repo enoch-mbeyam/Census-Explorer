@@ -1,6 +1,8 @@
-Project: "Census Explorer"
-Problem Statement:
+Census Explorer
+Problem Statement
 This project explores the 1994 Census database to identify trends and insights that could inform policy decisions. The following questions are investigated:
+Questions
+
     What is the demographic breakdown of the population by race?
     What is the average age of men in the workforce?
     What percentage of individuals hold a Bachelor's degree or higher?
